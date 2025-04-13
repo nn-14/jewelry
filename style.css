@@ -1,0 +1,70 @@
+h2{
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color: rgb(145, 145, 145);
+    margin: 0px;
+}
+
+.bb{
+    display: flex;
+    justify-content: space-around;
+    position: static;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style:normal;
+}
+
+.in{
+    font-size: 20px;
+}
+
+
+h3{
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: 50px;
+}
+    
+.er{
+    display: grid;
+    border: solid 2px;
+    border-color: rgb(255, 255, 255);
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 320px;
+    height: 700px;
+    width: 700px;
+    margin-left: 560px;
+
+}
+
+table {
+    justify-content: center;
+    margin: 0 auto;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    padding-left: 100px;
+    background-color: rgb(211, 208, 208);
+    border-collapse: collapse;
+}
+
+
+button{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 150px;
+    background-color: rgb(194, 193, 193);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: 50px;
+}
+
